@@ -35,6 +35,7 @@ export default {
 };
 </script>
 
+
 <template>
   <WelcomeItem>
     <template #icon>
