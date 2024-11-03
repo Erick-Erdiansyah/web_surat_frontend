@@ -32,7 +32,7 @@
 </template>
 
 <script>
-import DialogModal from '@/Components/DialogModal.vue';
+import DialogModal from './DialogModal.vue';
 import { VuePDF, usePDF } from '@tato30/vue-pdf';
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
 import axios from 'axios';
